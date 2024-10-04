@@ -33,7 +33,7 @@ function Home() {
       <div className="flex justify-center items-center  w-5/6 mx-auto">
         <div className="justify-center items-center w-2/3 p-10">
           <li>
-            I am a 3rd year undergraduate at
+            I am a Final year Computer Engineering Student at
             <a
               href="https://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology"
               target="_blank"
@@ -44,15 +44,14 @@ function Home() {
             </a>
           </li>
           <li>
-            I have done my SDE Internship at Trilogy Innovations (CodeNation)
-            last summer.
+            I have done Multiple projects that solve real-world problem.
           </li>
           <li>I love problem solving and doing competitive programming.</li>
           <li>
             My field of Interest's are building new Web Technologies and
             Products.
           </li>
-          <li>I also have knowledge of Web3, Cryptography and Blockchain.</li>
+          {/* <li>I also have knowledge of DataScience, Cryptography and Blockchain.</li> */}
           <li>
             I am a tech geek and always learn and explore things related to
             Technology and Softwares.
@@ -61,7 +60,7 @@ function Home() {
             Currently I'm learning different System Design Concepts to make an
             application fast and scalable.
           </li>
-          <li>My hobbies are watching movies, anime and reading manga. </li>
+          <li>My hobbies are watching movies, series and playing Badmanton, Table Tennis. </li>
         </div>
 
         {/* <div className=" justify-center items-center w-1/3">some img</div> */}
