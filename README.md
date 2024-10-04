@@ -5,12 +5,8 @@ Welcome to my portfolio website! This project showcases my work as a computer en
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
 - [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
+- [Visit](#Visit)
 
 ## About Me
 
